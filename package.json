@@ -1,0 +1,34 @@
+{
+  "name": "myERNApp",
+  "version": "1.0.0",
+  "description": "This portfolio is based on React, Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebyravi/myERNApp.git"
+  },
+  "keywords": [],
+  "author": "Ravi Valluri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebyravi/myERNApp/issues"
+  },
+  "homepage": "https://github.com/codebyravi/myERNApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-react": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "eslint": "^6.5.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
